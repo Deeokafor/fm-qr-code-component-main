@@ -1,0 +1,297 @@
+/* css variables */
+:root {
+    /* defaults */
+    font-size: 62.5%;
+    /* colours vars */
+    --black: hsl(0, 0%, 0%);
+    --white: hsl(0, 0%, 100%);
+    --light-gray: hsl(212, 45%, 89%);
+    --grayish-blue: hsl(220, 15%, 55%);
+    --dark-blue: hsl(218, 44%, 22%);
+    
+    /* generic sizes vars */
+    --size-o: 0;
+    --size-xs: 1.2rem;
+    --size-sm: 1.4rem;
+    --size-md: 1.6rem;
+    --size-lg: 1.8rem;
+    --size-xl: 2.0rem;
+    --size-2xl: 2.2rem;
+    --size-3xl: 2.4rem;
+    --size-4xl: 2.6rem;
+    --size-5xl: 2.8rem;
+    --size-6xl: 3.0rem;
+    --size-7xl: 3.2rem;
+    --size-full: 100%;
+}
+
+/* preformat */
+* {
+    padding: var(--size-o);
+    margin: var(--size-o);
+    box-sizing: border-box;
+}
+
+/* backgrounds */
+.qr-bg-white {
+    background-color: var(--white);
+}
+
+.qr-bg-light-gray {
+    background-color: var(--light-gray);
+}
+
+.qr-bg-grayish-blue {
+    background-color: var(--grayish-blue);
+}
+
+.qr-bg-dark-blue {
+    background-color: var(--dark-blue);
+}
+
+.qr-bg-black {
+    background-color: var(--black);
+}
+
+/* overflow properties */
+.qr-overflow-hidden {
+    overflow: hidden;
+}
+
+/* text sizes */
+.qr-text-xs {
+    font-size: var(--size-xs);
+}
+
+.qr-text-sm {
+    font-size: var(--size-sm);
+}
+
+.qr-text-md {
+    font-size: var(--size-md);
+}
+
+.qr-text-lg {
+    font-size: var(--size-lg);
+}
+
+.qr-text-xl {
+    font-size: var(--size-xl);
+}
+
+.qr-text-center {
+    text-align: center;
+}
+
+.qr-text-white {
+    color: var(--white);
+}
+
+.qr-text-light-gray {
+    color: var(--light-gray);
+}
+
+.qr-text-grayish-blue {
+    color: var(--grayish-blue);
+}
+
+.qr-text-dark-blue {
+    color: var(--dark-blue);
+}
+
+.qr-black {
+    color: var(--black);
+}
+
+/* padding */
+.qr-p-none {
+    padding: var(--size-o);
+}
+
+.qr-p-xs {
+    padding: var(--size-xs);
+}
+
+.qr-p-sm {
+    padding: var(--size-sm);
+}
+
+.qr-p-md {
+    padding: var(--size-md);
+}
+
+.qr-p-lg {
+    padding: var(--size-lg);
+}
+
+.qr-p-xl {
+    padding: var(--size-xl);
+}
+
+.qr-p-2xl {
+    padding: var(--size-2xl);
+}
+
+.qr-py-xs {
+    padding: var(--size-xs) var(--size-o);
+}
+
+.qr-py-sm {
+    padding: var(--size-sm) var(--size-o);
+}
+
+.qr-py-md {
+    padding: var(--size-md) var(--size-o);
+}
+
+.qr-py-lg {
+    padding: var(--size-lg) var(--size-o);
+}
+
+.qr-py-xl {
+    padding: var(--size-xl) var(--size-o);
+}
+
+.qr-px-xs {
+    padding: var(--size-o) var(--size-xs);
+}
+
+.qr-px-sm {
+    padding: var(--size-o) var(--size-sm);
+}
+
+.qr-px-md {
+    padding: var(--size-o) var(--size-md);
+}
+
+.qr-px-lg {
+    padding: var(--size-o) var(--size-lg);
+}
+
+.qr-px-xl {
+    padding: var(--size-o) var(--size-xl);
+}
+
+/* height */
+.qr-h-full {
+    height: 100%;
+}
+
+.qr-h-vh {
+    height: 100vh;
+}
+
+.qr-h-90 {
+    height: 90%;
+}
+
+.qr-h-80 {
+    height: 80%;
+}
+
+.qr-h-70 {
+    height: 70%;
+}
+
+.qr-h-60 {
+    height: 60%;
+}
+
+.qr-h-50 {
+    height: 50%;
+}
+
+.qr-h-40 {
+    height: 40%;
+}
+
+/* widths */
+.qr-w-fixed-2 {
+    width: 250px;
+}
+.qr-w-fixed {
+    width: 340px;
+}
+.qr-w-vw {
+    width: 100vw;
+}
+
+.qr-w-full {
+    width: 100%;
+}
+
+/* flex properties */
+.qr-flex {
+    display: flex;
+}
+
+.qr-flex-col {
+    flex-direction: column;
+}
+
+.qr-flex-row {
+    flex-direction: row;
+}
+
+.qr-align-center {
+    align-items: center;
+}
+
+.qr-justify-around {
+    justify-content: space-around;
+}
+
+.qr-justify-between {
+    justify-content: space-between;
+}
+
+.qr-justify-center {
+    justify-content: center;
+}
+
+/* border-radius properties */
+.qr-border-radius-xs {
+    border-radius: var(--size-xs);
+}
+
+.qr-border-radius-sm {
+    border-radius: var(--size-sm);
+}
+
+.qr-border-radius-md {
+    border-radius: var(--size-md);
+}
+
+.qr-border-radius-lg {
+    border-radius: var(--size-lg);
+}
+
+.qr-border-radius-xl {
+    border-radius: var(--size-xl);
+}
+
+.qr-border-radius-2xl {
+    border-radius: var(--size-2xl);
+}
+
+.qr-border-radius-3xl {
+    border-radius: var(--size-3xl);
+}
+
+
+
+.qr-border-radius-full {
+    border-radius: var(--size-full);
+}
+
+
+/* attribution properties */
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+    
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
