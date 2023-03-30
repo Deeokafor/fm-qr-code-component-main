@@ -1,0 +1,24 @@
+{
+  "name": "qr-code-component",
+  "version": "1.0.0",
+  "description": "This is a build challenge to Frontend Master's QR-code component ui build",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deeokafor/qr-code-component-main.git"
+  },
+  "keywords": [
+    "frontend_masters",
+    "qr-code-component",
+    "qr-code"
+  ],
+  "author": "Divine Chukwunwemmeri Okafor-udah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deeokafor/qr-code-component-main/issues"
+  },
+  "homepage": "https://github.com/Deeokafor/qr-code-component-main#readme"
+}
