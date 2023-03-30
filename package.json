@@ -4,7 +4,8 @@
   "description": "This is a build challenge to Frontend Master's QR-code component ui build",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tailwindcss -i tailwindcss.css -o assets/style.css --watch"
   },
   "repository": {
     "type": "git",
