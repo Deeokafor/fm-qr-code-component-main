@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+:root {
+    font-family: 'Outfit';
+    --font-400: '400';
+    --font-700: '700';
+}
+
+.font-heading {
+    font-family: 'Outfit';
+    font-size: var(--font-400);
+}
+
+.font-paragraph {
+    font-family: 'Outfit';
+    font-size: var(--font-700);
+}
