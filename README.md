@@ -18,17 +18,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./readme_assets/screenshot%20mobile.png) <br>
+![mobile screeshot](./readme_assets/screenshot%20mobile.png) <br>
  > mobile build image
 
-![](./readme_assets/screenshot%20desktop.png) <br>
+![desktop screenshot](./readme_assets/screenshot%20desktop.png) <br>
  > desktop build image
 
 
 ### Links
 
-- Solution URL: [Solution Url](https://github.com/Deeokafor/qr-code-component-main)
-- Live Site URL: [Live Url](https://deeokafor.github.io/qr-code-component-main/)
+- Solution URL: [https://github.com/Deeokafor/qr-code-component-main](https://github.com/Deeokafor/qr-code-component-main)
+- Live Site URL: [https://deeokafor.github.io/qr-code-component-main/](https://deeokafor.github.io/qr-code-component-main/)
 
 ## My process
 
@@ -60,3 +60,4 @@ I am deeply thankful to the developers and maintainers of frameworks and librari
 - Website - [Okafor-udah Divine](deedev.netlify.app)
 - Frontend Mentor - [@Deeokafor](https://www.frontendmentor.io/profile/Deeokafor)
 - Twitter - [@dee_okafor](https://twitter.com/dee_okafor)
+- April 10, 2023
