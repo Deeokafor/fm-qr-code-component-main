@@ -19,11 +19,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./readme_assets/screenshot%20mobile.png)
-mobile build image
+![](./readme_assets/screenshot%20mobile.png) <br>
+ > mobile build image
 
-![](./readme_assets/screenshot%20desktop.png)
-desktop build image
+![](./readme_assets/screenshot%20desktop.png) <br>
+ > desktop build image
 
 
 ### Links
