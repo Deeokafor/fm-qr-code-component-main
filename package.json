@@ -1,7 +1,7 @@
 {
   "name": "qr-code-component",
   "version": "1.0.0",
-  "description": "This is a build challenge to Frontend Master's QR-code component ui build",
+  "description": "This is a solution build to Frontend Mentor's QR-code component UI build challenge",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
