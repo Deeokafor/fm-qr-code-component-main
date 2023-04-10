@@ -36,7 +36,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Semantic HTML5 markup
 - Mobile-first workflow
-- [Tailwindcss](https://tailwindcss.com/) - Css utility-first framework
+- [Tailwindcss](https://tailwindcss.com/) - CSS utility-first framework
 
 
 ### What I learned
