@@ -27,8 +27,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/Deeokafor/qr-code-component-main](https://github.com/Deeokafor/qr-code-component-main)
-- Live Site URL: [https://deeokafor.github.io/qr-code-component-main/](https://deeokafor.github.io/qr-code-component-main/)
+- Solution URL: [https://github.com/Deeokafor/fm-qr-code-component-main](https://github.com/Deeokafor/fm-qr-code-component-main)
+- Live Site URL: [https://deeokafor.github.io/fm-qr-code-component-main/](https://deeokafor.github.io/fm-qr-code-component-main/)
 
 ## My process
 
